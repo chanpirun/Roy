@@ -13,10 +13,10 @@
      <!-- Boxicons CDN Link -->
   <link href='https://unpkg.com/boxicons@2.0.7/css/boxicons.min.css' rel='stylesheet'>
     <!-- custom css file link  -->
-    <link rel="stylesheet" href="{{url('/css/style.css')}}">
+    <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
-    
+
 
 <!-- footer section starts  -->
 
